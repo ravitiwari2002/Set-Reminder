@@ -10,6 +10,10 @@ The following functionalities are implemented:
 - [x] Tasks can be deleted
 - [x] Users have a calendar view via navigation controller that displays tasks	
 
+
+https://github.com/ravitiwari2002/Set-Reminder/assets/81186121/8b2b5f79-2c32-4524-ad35-899cbfbe9d74
+
+
 ## License
 
     Copyright [2023] [Ravi Tiwari]
