@@ -4,14 +4,14 @@ An app that allows you to set reminders
 
 The following functionalities are implemented:
 
-- [x] App displays a list of tasks
-- [x] Users can add tasks to the list
-- [x] Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
-- [x] Tasks can be deleted
-- [x] Users have a calendar view via navigation controller that displays tasks	
+-  App displays a list of tasks
+-  Users can add tasks to the list
+-  Session persists when application is closed and relaunched (tasks dont get deleted when closing app) 
+-  Tasks can be deleted
+-  Users have a calendar view via navigation controller that displays tasks	
 
 
-https://github.com/ravitiwari2002/Set-Reminder/assets/81186121/8b2b5f79-2c32-4524-ad35-899cbfbe9d74
+https://github.com/ravitiwari2002/Set-Reminder/assets/81186121/88074ff8-bf77-4ce7-b495-280e3497ab01
 
 
 ## License
